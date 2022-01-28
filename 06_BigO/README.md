@@ -38,3 +38,15 @@
     - going backwards... x + x/2 + x/4 + x/8 +.... = 2x
 - X adds take O(X) time -> amortized time for each addition to the array = O(1)
 ---
+
+### Log N Runtime
+- Number of elements in the problem space gets halved each time 
+    - often recurisve algorithms 
+- Base of log does not matter in regards to Big O ("Bases of Logs" pg. 631)
+- Nodes per level = xʲ
+    - x = number of recurisve calls 
+    - j = level of recursion tree
+    - O(branchesᴰᴱᴾᵀᴴ)
+- Space Complexity = O(N) for O(2ᴺ) 
+    - only O(N) nodes exist at any given time due to splitting into smaller arrays at each level
+---
