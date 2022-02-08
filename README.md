@@ -8,9 +8,9 @@ Cracking the Coding Interview: 189 Programming Questions &amp; Solutions, 6th Ed
 
 
 
-### [Chapter 10: Sorting](10_Sorting)
-- [Merge Sort](10_Sorting/mergeSort.ipynb)
-- [Quick Sort](10_Sorting/quickSort.ipynb)
-- [Radix Sort](10_Sorting/radixSort.ipynb)
-- [Binary Search](10_Sorting/binarySearch.ipynb)
-- [Interview Questions](10_Sorting/questions.ipynb)
+### [Chapter 10: Sorting](10_SortingSearching)
+- [Merge Sort](10_SortingSearching/mergeSort.ipynb)
+- [Quick Sort](10_SortingSearching/quickSort.ipynb)
+- [Radix Sort](10_SortingSearching/radixSort.ipynb)
+- [Binary Search](10_SortingSearching/binarySearch.ipynb)
+- [Interview Questions](10_SortingSearching/questions.ipynb)
